@@ -1,0 +1,22 @@
+[
+  {
+    "direccion": "Panajachel",
+    "facturas": [
+      {
+        "descripcion": "FACTURA EMITIDA POR VENTAS",
+        "fechaEmision": "2026-04-30",
+        "fechaVencimiento": "2026-05-29",
+        "id": "9ef4dba95f7199fd",
+        "monto": 2100.0,
+        "pagado": false,
+        "referenciaPago": "",
+        "serie": "3215665-6565",
+        "tipoPago": "pendiente"
+      }
+    ],
+    "nit": "21356313",
+    "nombre": "empresa",
+    "telefono": "3453251",
+    "tipo": "proveedor"
+  }
+]
