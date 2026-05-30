@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ApiC/ApiC.vcxproj" Id="3d1b674f-8bd3-494e-8202-c3a91751eb43" />
+</Solution>
